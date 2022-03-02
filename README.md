@@ -1,1 +1,1 @@
-# dartmarzo2
+A simple command-line application.
